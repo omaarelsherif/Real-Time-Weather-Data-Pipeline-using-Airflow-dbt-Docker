@@ -1,7 +1,5 @@
 # Real-Time Weather Data Pipeline using Airflow, dbt and Docker
 
-# Real-Time Weather Data Pipeline
-
 ## Overview
 
 An end-to-end data engineering pipeline that extracts weather data from the Weatherstack API, loads it into PostgreSQL, transforms it using dbt, and serves analytics-ready data for reporting.
