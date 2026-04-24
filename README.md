@@ -22,7 +22,7 @@ The pipeline is orchestrated using Apache Airflow and fully containerized with D
 ## Pipeline Architecture
 
 This diagram illustrates the pipeline architecture.
-<img src="images/Project Architecture.png"/>
+<img src="images/Project Architecture.PNG"/>
 
 ---
 
