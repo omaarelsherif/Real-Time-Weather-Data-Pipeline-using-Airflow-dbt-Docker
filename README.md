@@ -21,17 +21,8 @@ The pipeline is orchestrated using Apache Airflow and fully containerized with D
 
 ## Pipeline Architecture
 
-```
-Weatherstack API
-      ↓
-Python Scripts (Extract & Load)
-      ↓
-PostgreSQL (Raw Layer)
-      ↓
-dbt (Staging → Mart)
-      ↓
-Superset Dashboard
-```
+This diagram illustrates the pipeline architecture.
+<img src="images/Project Architecture.png"/>
 
 ---
 
